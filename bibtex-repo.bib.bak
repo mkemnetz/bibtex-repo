@@ -771,17 +771,17 @@ pages = {453--477},
 volume = {197},
 }
 
-@Article{Porter_2013_OptEng,
-  author    = {Christopher Porter and Stanislav V. Gordeyev and Eric J. Jumper},
-  journal   = {Optical Engineering},
-  title     = {Large-aperture approximation for not-so-large apertures},
-  year      = {2013},
-  number    = {7},
-  pages     = {1 -- 10},
-  volume    = {52},
-  doi       = {10.1117/1.OE.52.7.071417},
-  publisher = {SPIE},
-  url       = {https://doi.org/10.1117/1.OE.52.7.071417},
+@article{Porter-2013-OptEng,
+author = {Christopher Porter and Stanislav V. Gordeyev and Eric J. Jumper},
+title = {Large-aperture approximation for not-so-large apertures},
+volume = {52},
+journal = {Optical Engineering},
+number = {7},
+publisher = {SPIE},
+pages = {1 -- 10},
+year = {2013},
+doi = {10.1117/1.OE.52.7.071417},
+URL = {https://doi.org/10.1117/1.OE.52.7.071417}
 }
 
 @misc{Ranade-2016-Thesis,
